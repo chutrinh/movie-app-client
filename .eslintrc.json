@@ -1,0 +1,6 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "your-custom-rule": "error"
+  }
+}
