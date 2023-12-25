@@ -2,11 +2,32 @@
 
 #### This is a movie streaming website with various genres.
 
-##### Start with below
-- 1 git clone https://github.com/chutrinh/movie-app-client.git
-- 2 cd movie-app-client
-- 3 npm install
-- 4 npm start
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/chutrinh/movie-app-client.git
+```
+
+Go to the project directory
+
+```bash
+  cd movie-app-client
+
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm start
+```
 
 #### Banner movie
 
