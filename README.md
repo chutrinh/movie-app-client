@@ -1,4 +1,4 @@
-# React
+# Movie app
 
 #### This is a movie streaming website with various genres.
 
